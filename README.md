@@ -11,3 +11,10 @@ For seeing the demo:
 6) Click on the story that pos up after uploading the file
 7) Click "Play" in the upper right corner
 8) Enjoy the game demo!
+
+## Financial planning for our project
+
+We are calculating with the following hiring plans:
+
+![Expenses and Income planning - monthly](https://github.com/ggcarrots/Watermelons/blob/master/images/expenses_income_monthly.png)
+![Expenses and Income planning - accumulated](https://github.com/ggcarrots/Watermelons/blob/master/images/expenses_income_accumulated.png)
