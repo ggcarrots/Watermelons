@@ -1,7 +1,7 @@
 # Watermelons
 Here, the Watermelon team presents its demo of the game "Hack my life"!
 
-## Usage isntructions
+## Usage instructions
 For seeing the demo:
 1) Download the file "Hack my life (final).html" from this repository
 2) Go to https://twinery.org/
