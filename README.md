@@ -11,6 +11,7 @@ For seeing the demo:
 6) Click on the story that pos up after uploading the file
 7) Click "Play" in the upper right corner
 8) Enjoy the game demo!
+![Here you can see an animated gif of the application running](https://github.com/ggcarrots/Watermelons/blob/master/images/animated_gif_001.gif)
 
 ## Financial planning for our project
 
